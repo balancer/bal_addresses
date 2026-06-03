@@ -19,7 +19,9 @@
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-arbitrum-smol/latest/gn",
     "gauges": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/balancer-gauges-arbitrum/latest/gn",
     "blocks": "https://api.studio.thegraph.com/query/48427/arbitrum-blocks/version/latest",
-    "aura": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-arbitrum/v0.0.1/"
+    "aura": {
+      "429": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-arbitrum/v0.0.1/"
+    }
   },
   "optimism": {
     "vault-v3": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v3-vault-optimism-smol/latest/gn",
@@ -68,7 +70,9 @@
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-base-smol/latest/gn",
     "gauges": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/balancer-gauges-base/latest/gn",
     "blocks": "https://api.studio.thegraph.com/query/48427/bleu-base-blocks/version/latest",
-    "aura": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-base/v0.0.1/"
+    "aura": {
+      "429": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-base/v0.0.1/"
+    }
   },
   "mode": {
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-mode-smol/latest/gn",
