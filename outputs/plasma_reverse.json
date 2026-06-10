@@ -230,6 +230,7 @@
   "0xe9735f7D85a57BFb860c1E2c1c7B4F587BA0F6e7": "EOA/keepers/old_oz_relayer_v1",
   "0xeBEd2DcFDf027F6Dd4BE2b6CfB8d0418D43714E6": "pools/50WXPL-50trillions-ebed",
   "0xeC8e3f795b28E86967265A4c4715aB609CBDe68d": "rate_providers/safe/StakedUSDeRateProvider.md/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+  "0xeebc941910D5DfbfEd7dd5963F450D8e5d1E6472": "pools/50WXPL-50sCrap-eebc",
   "0xf23b4DB826DbA14c0e857029dfF076b1c0264843": "20241205-v3-weighted-pool/WeightedPoolFactory",
   "0xf4743D026f3D07aF3747bb7d05BeD06D177241d7": "20251010-v3-unbalanced-add-via-swap-router/UnbalancedAddViaSwapRouter",
   "0xfb7d0D001BC8D0bC998071C762BfF53EE31b725F": "EOA/keepers/oz_relayer_v2"
