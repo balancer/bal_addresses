@@ -5,17 +5,13 @@
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-mainnet-smol/latest/gn",
     "gauges": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/balancer-gauges-mainnet/latest/gn",
     "blocks": "https://api.studio.thegraph.com/query/48427/ethereum-blocks/version/latest",
-    "aura": {
-      "429": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-mainnet/v0.0.1/"
-    }
+    "aura": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-mainnet/v0.0.1/"
   },
   "polygon": {
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-polygon-smol/latest/gn",
     "gauges": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/balancer-gauges-polygon/latest/gn",
     "blocks": "https://api.studio.thegraph.com/query/48427/polygon-blocks/version/latest",
-    "aura": {
-      "429": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-polygon/v0.0.1/"
-    }
+    "aura": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-polygon/v0.0.1/"
   },
   "arbitrum": {
     "vault-v3": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v3-vault-arbitrum-one-smol/latest/gn",
@@ -63,9 +59,7 @@
     "core": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v2-avalanche-smol/latest/gn",
     "gauges": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/balancer-gauges-avalanche/latest/gn",
     "blocks": "https://api.studio.thegraph.com/query/48427/avalanche-blocks/version/latest",
-    "aura": {
-      "429": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-avalanche/v0.0.1/"
-    }
+    "aura": "https://api.subgraph.ormilabs.com/api/public/396b336b-4ed7-469f-a8f4-468e1e26e9a8/subgraphs/aura-finance-avalanche/v0.0.1/"
   },
   "fantom": {
     "core": "https://api.studio.thegraph.com/query/73674/beethovenx-v2-fantom/version/latest",
