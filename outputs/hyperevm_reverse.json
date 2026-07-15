@@ -15,6 +15,7 @@
   "0x0951FF0835302929d6c0162b3d2495A85e38ec3A": "EOA/dao/mounibec",
   "0x0BE761301A2AE19D31860D7AC0c56faC1288E3B6": "rate_providers/safe/StaticHyperLendHyperEVM_WHYPE_v2RateProvider.md/0xD704254eb350E0D3BaeCD194d095862267897aE0",
   "0x0E8B07657D719B86e06bF0806D6729e3D528C9A9": "20250321-v3-vault-factory-v2/VaultExtension",
+  "0x0EeBADb045574C0A99371846A87fE083968f0541": "pools/AutoRange-WHYPE-USDC-0eeb",
   "0x0adfED2cFF26D1757073545FcF9f1DA23858801A": "rate_providers/safe/HyperlendInterestBearing_USD\u20ae0_(Wrapped_HLP)RateProvider.md/0x06Fd9D03b3d0F18E4919919b72D30c582f0a97E5",
   "0x0b11209B8c5E821b18dED147583b8978c3E63911": "20250815-v3-stable-pool-oracle/StableLPOracleFactory",
   "0x0f08eEf2C785AA5e7539684aF04755dEC1347b7c": "20250430-v3-pool-swap-fee-helper/PoolSwapFeeHelper",
