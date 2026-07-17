@@ -53,7 +53,8 @@
   },
   "biz_dev": {
     "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-    "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+    "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+    "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
   },
   "balancer_onchain_ltd": {
     "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
