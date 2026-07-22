@@ -439,7 +439,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -1088,6 +1089,7 @@
         "50wstETH-50WETH-879c": "0x879C41cA7E01734446f21382f83FB3E3DFFE55F2",
         "49DAI-51USDC-87c4": "0x87C47dA73B144d12c564DdD1f039840f0A9C5f90",
         "50VST-50WETH-87ce": "0x87CE4a47aE1e1ae8c09E439fed64de508fcE53d6",
+        "ECLP-USDai-USDC-87f1": "0x87f152E0Ad2096018AE3Ab25abE80DE7817e8A40",
         "PEG_80-WETH_20-882f": "0x882f961Def46deadAcf31798B295834a5b6d0c86",
         "Derivatives Pool-8851": "0x8851f5eb05Bf56671a2D28AD4b399986b64033f7",
         "50VSTA-50USDC-8898": "0x889832950272DBf9b6F3fC34Df6A0288A157B30c",
@@ -2086,7 +2088,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -2173,6 +2176,7 @@
         "AFCC-0df1": "0x0df1Be54B29aA9828Bea1De6A6DFE3d03EC63082",
         "20WAVAX-80USDC-0e7c": "0x0E7c3F32f7F155150d7a2e79501D24ccd3DB8daA",
         "USDC-EUROC-0fba": "0x0fBA6f8a2cdC9317509F4E0D1F6214B5465499e8",
+        "waCoreUSDC-waCoreUSDT-102c": "0x102C6AbDA2D63B37bC3FBe2Abc9859C6Fd107BF4",
         "50VEUR-50WAVAX-1114": "0x111440768A7e23B94F3771D1DeaA33b10e05D3FD",
         "SWEEP-USDC-BPT-121b": "0x121b0DfC48444C4d10caddeD9885D90E7453E878",
         "14KIMBO-14COQ-14TECH-14NOCHILL-14WAVAX-14USDC-14GEC-1536": "0x15365DaD32910a37584233aF9e28383ff276887A",
@@ -2677,7 +2681,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -2944,6 +2949,7 @@
         "ECLP-GYFI-GYD-327f": "0x327fc10dD65c117A9CFC449F2A86613Eb1265e91",
         "50BAL-50WETH-32b4": "0x32b494056A118c1d43Ad823Fa650557a5A2870ab",
         "moreZORAposts-333c": "0x333C2Ffb30AeAd8CCcBeC348E520741081625D45",
+        "MIGGLES-cc0company-334b": "0x334bB44aD8DFB475f232A5741DA07dB1C6B3967c",
         "49WETH-51axlUSDC-335c": "0x335C27d884E9a399C4A0E29aa680345510662022",
         "50WETH-50$mfer-336f": "0x336f36E57E256793cf1fe591ce6E4e13db861ED1",
         "USDC-USDq-33c4": "0x33C4148dFB77BF92362f3C210343605D74601B21",
@@ -3052,6 +3058,7 @@
         "50WETH-50USDbC-4e4b": "0x4e4b7D0AD9C88c878a29735dbC5BecCBD1966A79",
         "58WETH-42DAI-4e68": "0x4E682Fd60486210a27668A2E1673480658539BF7",
         "WETH-USDC-MEV-4f75": "0x4F75B8c435Ef4B20e5305E6F695aD8FE264Ee92a",
+        "nutSALT-rCLP-4f92": "0x4f924d20773D21a80E58ba929613BeB74f51BeD6",
         "balancer-LightUpBase-4f9d": "0x4f9D11EBD110A9132f73233a04B21BD74C154Bcc",
         "Akron waUSDC-waWETH-4fbb": "0x4Fbb7870DBE7A7Ef4866A33c0eED73D395730dc0",
         "jesse-SkiBonk+-4fc9": "0x4fc96cb189A501A8bFca7bd6FD5e293256b9FF2D",
@@ -3601,6 +3608,7 @@
         "20WETH/80VLR-ee1e": "0xEe1e5301dc293E1468fAc27B9b53F309f0AE8344",
         "WETH-USDC-ee52": "0xEe52d4dBEA9f02DA420825a2ac161EB3Cc4d3790",
         "50WETH-50USDbC-ee94": "0xee94d8Df3ECF9158D1Cd3D752c7b61fc4FD46b12",
+        "SINC-USDC-LBP-ef57": "0xEf5780cc48A9654155781898fe349Af89B15f6B8",
         "USDC-WETH-waBasWETH-ef7e": "0xef7E81D7594724c63ac7Ba935A2588429817797C",
         "ECLP-cbBTC-WETH-dyn-efec": "0xEFEcF3A2b6adE967436F2eA3Bc1657Cd623fa847",
         "50LINU-50axlUSDC-f064": "0xf0641123A165DDf290b44AB626cE3b527AD7c45b",
@@ -3874,7 +3882,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -4112,7 +4121,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -4540,7 +4550,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -4748,6 +4759,7 @@
         "BTC_to_MPS_and_back-7d69": "0x7D6947ec2c1d9aD65550Ac977Fe29b75FFb9A5Ce",
         "50s-HDGDL-50WXDAI-7d9d": "0x7d9dC2c6A3288B96bC715d8B89844adC46d75446",
         "B-50wstETH-50COW-7dcf": "0x7DcfD0fE4493611eE9549b06ded97e4f22d938c2",
+        "GNOM-WXDAI-7e22": "0x7E2266134CA0Ab87b08A828Babd442C7dC26cd3F",
         "ECLP-GYD-sDAI-7e74": "0x7E7419eBef7171C84409B7A1C3a5D4538c98d4a1",
         "B-50sGBP3-50GBPe-7f96": "0x7F96d8a3D850f0C19F6263bE0250925529aB6e2F",
         "WXDAI-GNO-8189": "0x8189c4c96826D016A99986394103DFa9aE41e7ee",
@@ -4801,6 +4813,7 @@
         "groupLBP-s-i2e-adcd": "0xADcD35128629630e354f0364d55B71aEC38d2D35",
         "50sDAI-50bCOIN-adf6": "0xADF65e3DA99f7D1EfE7c5deA899ABeC9720139D0",
         "50bCSPX-50sDAI-ae2a": "0xAE2a38545167Be5A2EBa9B931B28DE5A7d95315e",
+        "ECLP-sDAI-AUSDC.e-b0fe": "0xB0feF4CEe958cC17D59b78e0aDCc03b35F5D664e",
         "Test-AutoRange-sDAI-wstETH-b593": "0xB593fd1963Be42e9984E04D02CBB5CFc48287607",
         "EURE/USDC.E-b6f1": "0xB6f15EcafA41046bB5602Bf98C537f85BAF3B16d",
         "BCoW-50PAXG-50wstETH-b71b": "0xb71b58D5360698c10246326a5AaD7309EcAD8D24",
@@ -5145,7 +5158,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -5916,7 +5930,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -6153,6 +6168,7 @@
         "50USDC-50USDT-2d62": "0x2d62dC792237b6360dAA3f0c5d908Edaef0a0d9A",
         "LPeYyvUSDC-29OCT21-2d6e": "0x2D6e3515C8b47192Ca3913770fa741d3C4Dac354",
         "50/50 BTRFLY-OHM-2de3": "0x2dE32a7c98C3ef6ec79e703500e8CA5b2eC819aa",
+        "ECLP-USDG-USDC-2e01": "0x2E01C96cCFDE303079B506eEd2c8850a034845C2",
         "50bb-a-WETH-50YieldETH-2e52": "0x2e52c64FD319E380cDbCFC4577eA1Fda558a32e4",
         "wbETH-wstETH-2e84": "0x2E848426AEc6dbF2260535a5bEa048ed94d9FF3D",
         "Surge slpUSD-aUSDC-2f05": "0x2f0508c56CfC35499F79f818Dfc34113Fe7F6d50",
@@ -6164,6 +6180,7 @@
         "45WBTC-10graviAURA-45WETH-3194": "0x319438FDD5D27922aCeD2a1b15CD7F0bc3B03068",
         "ECLP-LUSD-crvUSD-rh-31e1": "0x31E172e1992dCDD6Dec58d8175471383Ac90BE08",
         "B-stETH-STABLE-3229": "0x32296969Ef14EB0c6d29669C550D4a0449130230",
+        "B-sGho80-GWEI20-32ca": "0x32CAd5E31815a1657631fe0246fD89e4842a3AAd",
         "TLBP-32f0": "0x32F0DC9E2D890BAC95106a65eB82db70Bc58BaDB",
         "50AAVE-50COMP-331b": "0x331bC9c616e4Ca9032bfccE9056cF9988045Acc6",
         "50rETH-50bb-a-USD-334c": "0x334C96d792e4b26B841d28f53235281cec1be1F2",
@@ -6677,7 +6694,6 @@
         "ECLP-mevETH-wETH-b3b6": "0xb3b675a9A3CB0DF8F66Caf08549371BfB76A9867",
         "BCoW-50OSAK-50Neiro-b3d3": "0xB3D37552EEbbbdbea36258Ba0948F4bbCAA3584e",
         "20WBTC-80BADGER-b460": "0xb460DAa847c45f1C4a41cb05BFB3b51c92e41B36",
-        "Test-AutoRange-USDC-USDT-b47a": "0xB47AEC7F043d4c34f76990443e5EE44e54970070",
         "50-JPYC-50-JPYR-b4d4": "0xB4D4C0d906b0dC9AE9aC59B4785e04e98CC501Ed",
         "80wARRR-20WETH-b53f": "0xB53f8F2907d8E5fED503f8ebCe4433FB5c5BEae2",
         "vETH/WETH BPT-b54e": "0xB54E6AADBF1ac1a3EF2A56E358706F0f8E320a03",
@@ -7488,7 +7504,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -7792,7 +7809,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -7873,6 +7891,7 @@
         "AutoRange-WMON-WETH-067a": "0x067AbD928147282Fb06475a09f6BE22Cee933EA3",
         "shMON-wnWMON-1503": "0x150360c0eFd098A6426060Ee0Cc4a0444c4b4b68",
         "weETH-wnWETH-1e17": "0x1E170c076779cff943765D4afcD3EDf7d734e848",
+        "avUSD-AUSD-234b": "0x234B49e87A7Fff921A060c21D2C013291BBD7fF1",
         "reCLAMM-WMON-AUSD-2532": "0x2532D150c81ee8cDFcc301e417A5D129735A895d",
         "AutoRange-DUST-USDC-27da": "0x27da8a34579fBC99319Af1C1a0f0D51065084576",
         "USDC-wnAUSD-2b68": "0x2B687A7E4FEA8159173D99BD3fb1350103202FE7",
@@ -7883,6 +7902,7 @@
         "80DUST-20wnUSDC-3df0": "0x3df01b4d2f8648Be1Be53a105d06d0e978A92E6C",
         "syzUSD-CSUSDC-4305": "0x430589B4aEEE87e21721d657865D942F92d80f2f",
         "50-WMON-50-wnUSDT0-4328": "0x43287ecd072476c9Ebf6AfE63b87603A33541485",
+        "avUSD-savUSD-4659": "0x46590fE267495E902265E6FeB1A4f6C882e9970D",
         "W-wbtc-weth-4af4": "0x4aF4eD3D9f750b6647d77c8206a2dee13E8343bE",
         "50-KTB-50-wnUSDC-5423": "0x542312631ef65Cc0d8a5c72726190AA987d0E599",
         "50-gMON-50-WMON-66b7": "0x66b7b2389ccedF5f0F5217b7811741344b34b4fA",
@@ -8239,7 +8259,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -8415,7 +8436,6 @@
         "ECLP-wstETH-WETH-7ca7": "0x7Ca75bdEa9dEde97F8B13C6641B768650CB83782",
         "WETH-OP-7d2a": "0x7d2A1eBB6ce9901Ce5581c6FEaB5B7250220E7a0",
         "BPT-USD+-7d6b": "0x7d6Bff131B359dA66d92f215FD4e186003BFAA42",
-        "CUSD-WETH-7e13": "0x7e13f93446695252E3a7185eA4D7b1E272666297",
         "50imxB (OPP-ETH)-50WETH-7e40": "0x7e40FE211C8053B78F31D6C4c15157A430a03349",
         "BPT-OATHUSD-7ed0": "0x7ED087AfAB0b2653C8137744916eD1abA97E2fa2",
         "BPT-8TRACK-7ef9": "0x7Ef99013E446dDCe2486b8E04735b7019a115e6F",
@@ -8845,7 +8865,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -9185,7 +9206,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -11202,7 +11224,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -11490,7 +11513,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
@@ -11744,7 +11768,8 @@
         },
         "biz_dev": {
           "simon": "0xc57b29CAc1a1CD4E8e678622D35459c4AF6F8b9c",
-          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556"
+          "simon_vest_beneficiary": "0xFEffd47b42BD7936fcf256E162EEdba99Bd96556",
+          "tiago": "0xbF7c43A8f0f8cC7d875B377b80185bd8F9a8025C"
         },
         "balancer_onchain_ltd": {
           "leeward": "0x4aebDF855102FC11B0455e263e776c15C06AE908",
