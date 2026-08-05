@@ -234,6 +234,7 @@
   "0xd488810DaAdD52C5892663FEA4e0bcb71eF744cB": "20250418-v3-wrapped-bpt/MockWrappedBalancerPoolToken",
   "0xe01b2Cb0C8D16B6AA51beD36FE2654193f43Da1F": "rate_providers/safe/TreehouseHYPERateProvider.md/0xb83D27f0f4133a7B0377a88089583131A903FDc7",
   "0xe0230147Ebf010B40869e27c8FaB6d38a6647472": "pools/AutoRange-TREE-tHYPE-e023",
+  "0xe0E98ab42d6bDF6695453CE5419194A053E9EFfA": "pools/tHYPE-WHYPE-e0e9",
   "0xe4b9ae240748eb2C39016B30010FDc6dcD28B338": "20250404-v3-stable-surge-pool-factory-v2/MockStablePool",
   "0xe9735f7D85a57BFb860c1E2c1c7B4F587BA0F6e7": "EOA/keepers/old_oz_relayer_v1",
   "0xeb7730A6eEc7159EFe9258AD72e7072a4e5B974f": "20260117-v3-stable-surge-pool-factory-v3/MockStablePool",

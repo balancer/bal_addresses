@@ -139,6 +139,7 @@
   "0x9098b50ee2d9E4c3C69928A691DA3b192b4C9673": "EOA/deployers/juani",
   "0x91f4Df13350083eDb30515019cF527C6b0490c54": "EOA/blabs_ops/Mike",
   "0x960bE2d20669E1b2bfc38dBC92bf1c440Cc60F9d": "EOA/deployers/raq",
+  "0x963B93c2A8c8F4dB243dE6ec360f528A8E1540D5": "pools/waMonsUSDe-waMonUSDT0-963b",
   "0x96484f2aBF5e58b15176dbF1A799627B53F13B6d": "20250702-v3-reclamm-pool-v2/ReClammPoolFactory",
   "0x9741c895d91f2E0781190751e78B84C962ebADBE": "20251205-v3-fixed-price-lbp/MockFixedPriceLBPool",
   "0x9805dcfD25e6De36bad8fe9D3Fe2c9b44B764102": "20250120-v3-gyro-2clp/Gyro2CLPPoolFactory",
@@ -228,6 +229,7 @@
   "0xeb53499457d0b09a2384048ec0416c41b0f2de56": "rate_providers/safe/WrappedNeverlandWMONRateProvider.md/0xdB39A9D4a1f1b4e93A5684d602207628aD60613C",
   "0xf23b4DB826DbA14c0e857029dfF076b1c0264843": "20220325-test-balancer-token/TestBalancerToken",
   "0xf3bb2bE1193FC786C89CE43C5c2F0546F53D5469": "pools/S-AUSD-USDC-f3bb",
+  "0xf40A707Ab16c9BA7a72FAA3F282EcEbf7fEA1559": "pools/Aave-USDe-USDT0-f40a",
   "0xf5CDdF6feD9C589f1Be04899F48f9738531daD59": "20260116-v3-stable-pool-v3/StablePoolFactory",
   "0xfb7d0D001BC8D0bC998071C762BfF53EE31b725F": "EOA/keepers/oz_relayer_v2"
 }
