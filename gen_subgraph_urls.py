@@ -22,7 +22,6 @@ def main():
             "core",
             "gauges",
             "blocks",
-            "aura",
         ]:
             subgraph = Subgraph(chain)
             try:
