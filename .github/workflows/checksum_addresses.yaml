@@ -17,12 +17,17 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Use trusted script from base
+      # scripts/ is on sys.path[0] when the script below runs, so any file the
+      # PR planted there (e.g. a shadow eth_utils.py) would be imported instead
+      # of the real dependency. Wipe the whole directory and restore it from
+      # the trusted base ref before anything imports from it.
+      - name: Reset scripts/ to trusted base version
         env:
           BASE_REF: ${{ github.base_ref }}
         run: |
           git fetch origin "$BASE_REF"
-          git checkout "origin/$BASE_REF" -- scripts/validate_checksums.py
+          rm -rf scripts
+          git checkout "origin/$BASE_REF" -- scripts
 
       - name: Set up Python
         uses: actions/setup-python@v7
