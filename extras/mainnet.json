@@ -152,7 +152,8 @@
     "claim_zap": "0x623B83755a39B12161A63748f3f595A530917Ab2",
     "extra_rewards_distributor": "0xA3739b206097317c72EF416F0E75BB8f58FbD308",
     "aura_vested_escrow": "0xFd72170339AC6d7bdda09D1eACA346B21a30D422",
-    "gauge_migrator": "0x7954bcDce86e86BeE7b1dEff48c3a0b9BCCe578B"
+    "gauge_migrator": "0x7954bcDce86e86BeE7b1dEff48c3a0b9BCCe578B",
+    "vebalgrant_timeless": "0x89f67f3054bFD662971854190Dbc18dcaBb416f6"
   },
   "ens": {
     "registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
