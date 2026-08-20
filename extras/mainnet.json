@@ -94,7 +94,9 @@
     "OmniVotingEscrow": "0xE241C6e48CA045C7f631600a0f1403b2bFea05ad"
   },
   "across": {
-    "spoke_pool": "0x4D9079Bb4165aeb4084c526a32695dCfd2F77381"
+    "spoke_pool": "0x4D9079Bb4165aeb4084c526a32695dCfd2F77381",
+    "hub_pool": "0xc186fA914353c44b2E33eBE05f21846F1048bEda",
+    "bal_lp_token": "0xfacd2eC4647df2Cb758F684C2aAAB56A93288f9e"
   },
   "cow": {
     "vault_relayer": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110",
