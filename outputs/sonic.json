@@ -110,7 +110,6 @@
   "rate_providers/safe/LiquidStakedRezerve.moneyRateProvider.md/0x67A298e5B65dB2b4616E05C3b455E017275f53cB": "0xf26d3b7f58bedd8539810c4a27be801db3b2c7ec",
   "rate_providers/safe/MainStreetYieldRateProvider.md/0x618383942cabb00aa3a13101b825a703dc082752": "0xa1f465d848df55571b62c06de57b9642eae42485",
   "rate_providers/safe/OpenRateProvider.md/0x423a7A5709213dEa0F0C2368e5fB16338c87bBA7": "0xaff87d11e1222908b624f80c70111115ea7067cc",
-  "rate_providers/safe/RsETHWrapperRateProvider.md/0x7c050be1dded733bd44116b60a8a35125ba47459": "0x5c08Bbc2C47447854958060725e437E6Dd003332",
   "rate_providers/safe/Silo_USDC-23_Rateprovider/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De": "0x71453d205b1437f7f3057ce480cdb7a02c1568a0",
   "rate_providers/safe/Silo_USDC-33_Rateprovider/0x42CE2234fd5a26bF161477a996961c4d01F466a3": "0xe508a70deef702d5cd1df120bf6936540c9a6b2d",
   "rate_providers/safe/Silo_scBTC-32_Rateprovider/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724": "0xf9fe8c5009b1015363e4452e0ac1d45d3924b986",

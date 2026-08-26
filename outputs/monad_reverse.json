@@ -21,6 +21,7 @@
   "0x1311Fbc9F60359639174c1e7cC2032DbDb5Cc4d1": "20250814-v3-weighted-pool-oracle/WeightedLPOracleFactory",
   "0x1404182f88e92c7e4B20fc7500bDE8C1B0BceAd5": "rate_providers/safe/WrappedAaveMonad_AUSDRateProvider.md/0x9e1AcC5BFbf34e2E579763cE14042d957719fE76",
   "0x150360c0eFd098A6426060Ee0Cc4a0444c4b4b68": "pools/shMON-wnWMON-1503",
+  "0x158d9Dc39a3bE0f2cE759DeAdBF18bAE20dCf9d9": "pools/aBIL-USDC-158d",
   "0x168a594b361B288781FF3C3DB5D1829592c1c0CB": "20260123-v3-gyro-2clp-v2/MockGyro2CLPPool",
   "0x16b0056636Fcc85f92C49cD49a24bc519d4A1941": "multisigs/balancer_onchain_ltd",
   "0x170027069fd114BFF2f57B0FC796df93290C02a6": "EOA/blabs_ops/EmergencyPauser",
@@ -55,6 +56,7 @@
   "0x36DA07624FC02b34042770EbE505e844C7B529FF": "pools/DUST-USDC-36da",
   "0x37302B98918382c43a176e5f3Bc7B11448cC6498": "20260202-v3-weighted-pool-oracle-v2/MockWeightedLPOracle",
   "0x3ABDc84Dd15b0058B281D7e26CCc3932cfb268aA": "EOA/emeritus/AlexLangeVC_dao_signer",
+  "0x3ADD1546a0236a84512DCb9f17d2D346aba7402f": "rate_providers/safe/SPDRBloomberg1-3M_T-Bill_aStockRateProvider.md/0x4FC5B9f8933597D3ecf84d0611687E1Dc8DD576f",
   "0x3a67b320e42cB7c777d8D2417a0b1A4CfDBa6e95": "20260203-v3-stable-pool-oracle-v2/MockStableLPOracle",
   "0x3a921d6956C62012Dd88f95bD44224a7Ef5C9b5a": "multisigs/emergency",
   "0x3b13D015D5249dE0614bB783193508E93520F140": "rate_providers/safe/WrappedNeverlandshMONRateProvider.md/0x5e073494678fB7FA4a05bB17d45941Dd9Dc469c1",
@@ -234,5 +236,6 @@
   "0xf3bb2bE1193FC786C89CE43C5c2F0546F53D5469": "pools/S-AUSD-USDC-f3bb",
   "0xf40A707Ab16c9BA7a72FAA3F282EcEbf7fEA1559": "pools/Aave-USDe-USDT0-f40a",
   "0xf5CDdF6feD9C589f1Be04899F48f9738531daD59": "20260116-v3-stable-pool-v3/StablePoolFactory",
+  "0xfB777881B0550B83e74d5CB90fAb1b09445427F5": "pools/25WMON-25SOL-25WETH-25WBTC-fb77",
   "0xfb7d0D001BC8D0bC998071C762BfF53EE31b725F": "EOA/keepers/oz_relayer_v2"
 }
