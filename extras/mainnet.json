@@ -4,7 +4,8 @@
   },
   "balancer": {
     "veBALDeploymentCoordinator": "0xeb151668006CD04DAdD098AFd0a82e78F77076c3",
-    "EventEmitter": "0x1ACfEEA57d2ac674d7E65964f155AB9348A6C290"
+    "EventEmitter": "0x1ACfEEA57d2ac674d7E65964f155AB9348A6C290",
+    "legacy_lm_merkle_redeem": "0x6d19b2bF3A36A61530909Ae65445a906D98A2Fa8"
   },
   "tokens": {
     "bb_a_usd": "0xA13a9247ea42D743238089903570127DdA72fE44",
