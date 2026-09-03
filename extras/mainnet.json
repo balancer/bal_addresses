@@ -224,7 +224,9 @@
   "safe": {
     "multisend": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
     "multisend_callonly": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
-    "token_locker": "0x0a7CB434f96f65972D46A5c1A64a9654dC9959b2"
+    "token_locker": "0x0a7CB434f96f65972D46A5c1A64a9654dC9959b2",
+    "user_airdrop": "0xA0b937D5c8E32a80E3a8ed4227CD020221544ee6",
+    "user_v2_airdrop": "0xC0fde70A65C7569Fe919bE57492228DEE8cDb585"
   },
   "zodiac": {
     "roles_master_copy": "0x9646fDAD06d3e24444381f44362a3B0eB343D337",
