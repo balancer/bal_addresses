@@ -304,5 +304,8 @@
   },
   "snapshot": {
     "delegate_Registry": "0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446"
+  },
+  "cron": {
+    "v1_relayer": "0xE0Ca4DAc40d44D737f0d02B1F2B2D969731eCda9"
   }
 }
