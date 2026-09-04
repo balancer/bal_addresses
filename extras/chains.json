@@ -61,16 +61,12 @@
     "polygon",
     "arbitrum",
     "gnosis",
-    "zkevm",
     "avalanche",
     "base",
-    "mode",
     "hyperevm",
-    "fraxtal",
     "optimism",
     "plasma",
-    "monad",
-    "xlayer"
+    "monad"
   ],
   "BALANCER_PRODUCTION_CHAINS_V3": [
     "mainnet",
