@@ -794,27 +794,6 @@
     "50bCSPX-50sDAI-gauge-f81c": "0xf81c47609e19b1456ddc6acb730f8f5b64840429",
     "ECLP-sDAI-AUSDC-gauge-fd0d": "0xfd0d023cedbb1690e6d602bc051f06efed8460dc"
   },
-  "zkevm": {
-    "B-wstETH/rETH-STABLE-gauge-0525": "0x05257970368efd323aeffec95f7e28c806c2e37f",
-    "50wstETH-BPT-50-bboUSD-gauge-1020": "0x10207c093cc0562367fb2e7f382de2f615b5168b",
-    "50BAL-50WETH-gauge-11a7": "0x11a72ebfc318c977a6a1b9b6e4565e068f9b3c12",
-    "ECLP-wETH-rETH-gauge-157a": "0x157a6dfd77f527efef0b36b5b2156b1ab710e32f",
-    "wstETH/ankrETH -gauge-2279": "0x2279abf4bdab8cf29eae4036262c62dba6460306",
-    "B-rETH-bboUSD-gauge-22df": "0x22df11c7bc3cc80470d377010aa49d6ef16688c6",
-    "B-wstETH-STABLE-gauge-544b": "0x544bdce27174ea8ba829939bd3568efc6a6c9c53",
-    "ECLP-GYD-USDT-gauge-62ab": "0x62abd51da1927ae9020264a31f31f07948f31213",
-    "B-rETH-STABLE-gauge-7733": "0x7733650c7aaf2074fd1fcf98f70cbc09138e1ea5",
-    "ECLP-wstETH-WETH-gauge-8dd9": "0x8dd928a3aa0274bba3b42dd9f41756aaf1e78b2f",
-    "33WETH-33MATIC-33USDC-gauge-a40f": "0xa40f59922d6185538bb2522f8cb4581ce0d483b1",
-    "rsETH/wETH-gauge-a442": "0xa442c9cb6fafb6fb2a722a1baa54f9b8ff0a55d3",
-    "ECLP-GYD-USDC-gauge-b049": "0xb049896b3edcea20dd92c94c706dc67eea354e57",
-    "ECLP-wETH-rETH-gauge-b11c": "0xb11c1a66f90cd16c6ae83d503cf2e138b8d8fd42",
-    "ECLP-wETH-rETH-gauge-b4ad": "0xb4ad377db4b6cd486ce22c2fe273096f50a47993",
-    "50BAL-25USDT-25USDC-gauge-c97f": "0xc97fa65107ae7b94fb749cf05abb01005c14351e",
-    "B-wstETH/bboUSD-gauge-e2f2": "0xe2f2aed19fa245aff66342c2b849be6f411fb28f",
-    "ECLP-wETH-rETH-gauge-edea": "0xedea3e93b914e2654f8c7e0c2bb5e6205f9742b0",
-    "bb-o-USD-gauge-ef97": "0xef97b54f69060f4d5304f79734d01c2da12114d8"
-  },
   "avalanche": {
     "BPT-gauge-0c22": "0x0c22ff3f93b5c9f13e41fa9d270680e97ac13b28",
     "Surge UTY-K3 USDT-gauge-0f5e": "0x0f5e81246d00d79389eaa465b42527d41bb00d3b",
@@ -968,19 +947,6 @@
     " 50tBTC-50WETH-gauge-fa61": "0xfa61fb6218378b9f01ca4b2b662b5c4d12915db9",
     "ECLP-WETH-GYD-gauge-fc87": "0xfc8796026bfef20ae357748c45bcab53c5e7216b",
     "ECLP-WETH-USDC-dyn-gauge-fff1": "0xfff1ed1b261cc8cd8c8ae78e1aa9742ca222bdf9"
-  },
-  "mode": {
-    "80MODE/20wETH-gauge-5612": "0x56124eb16441a1ef12a4ccaeabdd3421281b795a",
-    "80MODE/20USDC-gauge-5b79": "0x5b79494824bc256cd663648ee1aad251b32693a9",
-    "80MODE/20ezETH-gauge-b200": "0xb2007b8b7e0260042517f635cfd8e6dd2dd7f007",
-    "USDT/USDC -gauge-d7c5": "0xd7c5c2b75d4133f5914f4239824d0c789ac2d3ce"
-  },
-  "fraxtal": {
-    "sFRAX/sDAI/sUSDe-gauge-275e": "0x275e8514b83479f526673327b279753abc666a05",
-    "sFRAX/sDAI-gauge-34e0": "0x34e040bc0342ebbfbc7a6306eb1b8e6579185c94",
-    "sFRAX/sfrxETH-gauge-71c3": "0x71c365fb739fafdba44b1564558849216de69958",
-    "FRAX/USDe/DAI/USDT/USDC -gauge-9826": "0x982653b874b059871a46f66120c69503fe391979",
-    "FRAX/USDe-gauge-f99d": "0xf99d875dd868277cf3780f51d69c6e1f8522a1e9"
   },
   "optimism": {
     "BPT-ROAD-gauge-00a2": "0x00a2bd63529fd28d777155f5ed1726e9b9b781b4",
