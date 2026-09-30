@@ -52,8 +52,12 @@
   },
   "fantom": {
     "core": "https://api.studio.thegraph.com/query/73674/beethovenx-v2-fantom/version/latest",
-    "gauges": "https://api.studio.thegraph.com/query/48427/fantom-blocks/version/latest",
-    "blocks": "https://api.studio.thegraph.com/query/48427/fantom-blocks/version/latest"
+    "gauges": {
+      "409": "https://api.studio.thegraph.com/query/48427/fantom-blocks/version/latest"
+    },
+    "blocks": {
+      "409": "https://api.studio.thegraph.com/query/48427/fantom-blocks/version/latest"
+    }
   },
   "base": {
     "vault-v3": "https://api.subgraph.ormilabs.com/api/public/717cf785-de57-4761-94dd-9ac51b019902/subgraphs/v3-vault-base-smol/latest/gn",
